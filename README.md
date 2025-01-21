@@ -1,0 +1,2 @@
+# sdamgia-api-ts
+typescript
