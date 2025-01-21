@@ -1,1 +1,1 @@
-console.log("Hello via Bun!");
+const url = "https://rus-ege.sdamgia.ru/";
